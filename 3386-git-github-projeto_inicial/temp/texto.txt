@@ -1,1 +1,2 @@
 Git tem que ignorar esse arquivo
+testando novamente
