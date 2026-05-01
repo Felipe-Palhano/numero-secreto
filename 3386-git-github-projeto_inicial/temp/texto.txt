@@ -1,0 +1,1 @@
+Git tem que ignorar esse arquivo
